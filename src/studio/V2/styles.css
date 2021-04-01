@@ -1,0 +1,51 @@
+.box0 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.box1 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.box2 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.box3 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.box4 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.box5 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.nested {
+    width: 300px;
+}
